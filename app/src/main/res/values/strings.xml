@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomSheetDialog</string>
+    <string name="share_now">Share Now</string>
+    <string name="free_delivery">free delivery</string>
+    <string name="women_dress">Women\'s dress</string>
+    <string name="add_to_favorites">Add to favorites</string>
+    <string name="share">share</string>
+</resources>
